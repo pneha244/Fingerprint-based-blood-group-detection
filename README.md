@@ -38,7 +38,7 @@
 
  **ResNet34** emerged as the most stable and accurate model.
 
-##  Sample Workflow
+##  Workflow
 
 1. **Fingerprint Acquisition**  
 2. **Image Preprocessing** (grayscale, resize, normalize, augment)  
